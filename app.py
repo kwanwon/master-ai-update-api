@@ -6,9 +6,9 @@ from datetime import datetime
 app = Flask(__name__)
 
 VERSION_INFO = {
-    "version": "1.1.0",
-    "release_date": "2024-03-26",
-    "description": "버그 수정 및 새로운 기능 추가",
+    "version": "1.0.0",
+    "release_date": "2023-11-27",
+    "description": "초기 버전 릴리스",
     "required": True
 }
 
