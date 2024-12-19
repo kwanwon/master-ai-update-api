@@ -1,0 +1,9 @@
+{
+    "version": "1.1.0",
+    "files": [
+        "main.py",
+        "version.py"
+    ],
+    "description": "수련 시간 설정 20개로 증가",
+    "required": true
+}

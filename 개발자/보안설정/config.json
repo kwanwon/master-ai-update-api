@@ -1,0 +1,5 @@
+{
+    "api_key": "여기에_실제_API_키를_입력하세요",
+    "max_items": 100,
+    "enable_logging": true
+  }

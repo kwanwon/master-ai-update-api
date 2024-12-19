@@ -1,0 +1,5 @@
+서버 정보.txt
+- Render.com 대시보드: https://dashboard.render.com
+- 로그인 이메일: [이메일]
+- 서버 URL: [생성된 URL]
+- GitHub 저장소: [저장소 주소]
